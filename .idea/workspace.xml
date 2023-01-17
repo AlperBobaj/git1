@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="479bec43-580f-4f7d-804d-4c43366d3c77" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/homework.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables/class6/homework.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class6/homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class6/homework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,16 +44,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class8" />
       <recent name="class4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FprLoops5">
-    <configuration name="ForLoops1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class7.ForLoops1" />
+  <component name="RunManager" selected="Application.task6">
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework1.Task2" />
       <module name="Practice Variables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class7.*" />
+          <option name="PATTERN" value="homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoops2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class7.ForLoops2" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework1.Task3" />
       <module name="Practice Variables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class7.*" />
+          <option name="PATTERN" value="homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoops3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class7.ForLoops3" />
+    <configuration name="homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework1.homework1" />
       <module name="Practice Variables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class7.*" />
+          <option name="PATTERN" value="homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoops4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class7.ForLoops4" />
+    <configuration name="task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework1.task4" />
       <module name="Practice Variables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class7.*" />
+          <option name="PATTERN" value="homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FprLoops5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class7.FprLoops5" />
+    <configuration name="task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework1.task6" />
       <module name="Practice Variables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class7.*" />
+          <option name="PATTERN" value="homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FprLoops5" />
-        <item itemvalue="Application.ForLoops4" />
-        <item itemvalue="Application.ForLoops2" />
-        <item itemvalue="Application.ForLoops3" />
-        <item itemvalue="Application.ForLoops1" />
+        <item itemvalue="Application.task6" />
+        <item itemvalue="Application.task4" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.homework1" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +180,21 @@
           <url>file://$PROJECT_DIR$/src/class7/WhileRecap.java</url>
           <line>6</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/class8/BreakKeywordDemo.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/class8/ContinueKeywordDemo1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/class8/NestedLoops1.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
