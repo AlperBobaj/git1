@@ -5,78 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="479bec43-580f-4f7d-804d-4c43366d3c77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/ArrayHomeWork1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/ArrayOfCountries.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Dog$husky.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/HomeWorkkk$Phone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/HomeWorkkk$Phone1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/HomeWorkkk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Task.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Task3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Task4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Task5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/PracticOnly/Practic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class10/ArrayDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class10/D2Arrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class10/D2ArraysDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class10/ForEachLoopDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class10/ForEachLoopDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class10/ForEachLoopDemo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class10/ForEachLoopDemo4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class10/ScannerAndArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class11/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class11/CatTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class11/D2Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class11/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class11/DogTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class11/Example.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class11/Example1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class11/Example2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice Variables/class11/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkk/ArrayHomeWork1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkk/ArrayOfCountries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkkk/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkkk/HomeWorkkk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkkk/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkkk/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkkk/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkkk/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkkk/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkkk/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticOnly/Practic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class10/ArrayDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class10/D2Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class10/D2ArraysDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class10/ForEachLoopDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class10/ForEachLoopDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class10/ForEachLoopDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class10/ForEachLoopDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class10/ScannerAndArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/CatTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/D2Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/DogTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/homework1/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/homework1/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/homework1/homework1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/homework1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/homework1/task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/task4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/homework1/task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/homework1/task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/task6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework1/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkk/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework1/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkk/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework1/homework1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkk/homework1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework1/task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkk/task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework1/task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkk/task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework1/task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkk/task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/PracticOnly/Practic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables/PracticOnly/Practic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticOnly/Practic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticOnly/Practic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,13 +53,13 @@
       <recent name="class4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task1">
-    <configuration name="Dog$husky" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorkkk.Dog$husky" />
+  <component name="RunManager" selected="Application.Class12HomeWork.Task3">
+    <configuration name="Class12HomeWork.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class12HomeWork.Task1" />
       <module name="Practice Variables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWorkkk.*" />
+          <option name="PATTERN" value="Class12HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWorkkk$Phone1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorkkk.HomeWorkkk$Phone1" />
+    <configuration name="Class12HomeWork.Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class12HomeWork.Task3" />
       <module name="Practice Variables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWorkkk.*" />
+          <option name="PATTERN" value="Class12HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorkkk.Task" />
+    <configuration name="StringDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class12.StringDemo6" />
       <module name="Practice Variables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWorkkk.*" />
+          <option name="PATTERN" value="class12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorkkk.Task1" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class12HomeWork.Task2" />
       <module name="Practice Variables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWorkkk.*" />
+          <option name="PATTERN" value="Class12HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorkkk.Task5" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class9.Task3" />
       <module name="Practice Variables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWorkkk.*" />
+          <option name="PATTERN" value="class9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.Dog$husky" />
-        <item itemvalue="Application.HomeWorkkk$Phone1" />
-        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Class12HomeWork.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Class12HomeWork.Task1" />
+        <item itemvalue="Application.StringDemo6" />
+        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
