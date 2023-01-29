@@ -10,5 +10,6 @@ public class Task2 {
 
         String str1="vkjehfve74748703hfjf%&*#@HD?";
         System.out.println(str1.replaceAll("[^A-Za-z0-9]","").length());
+        System.out.println(str1);
     }
 }

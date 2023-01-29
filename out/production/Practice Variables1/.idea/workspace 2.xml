@@ -240,13 +240,52 @@
       <recent name="class4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task6">
+  <component name="RunManager" selected="Application.MethodPracticeTester">
+    <configuration name="CatTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class11.CatTester" />
+      <module name="Practice Variables" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodPracticeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class15.MethodPracticeTester" />
+      <module name="Practice Variables1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReturnDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class14.ReturnDemo2" />
+      <module name="Practice Variables1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class15HomeWork.Task2" />
+      <option name="MAIN_CLASS_NAME" value="Project1.Task2" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class15HomeWork.*" />
+          <option name="PATTERN" value="Project1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,51 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class15HomeWork.Task3" />
-      <module name="Practice Variables1" />
+    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project1.Task8" />
+      <module name="Practice Variables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class15HomeWork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class15HomeWork.Task4" />
-      <module name="Practice Variables1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class15HomeWork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class15HomeWork.Task5" />
-      <module name="Practice Variables1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class15HomeWork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class15HomeWork.Task6" />
-      <module name="Practice Variables1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class15HomeWork.*" />
+          <option name="PATTERN" value="Project1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.MethodPracticeTester" />
+        <item itemvalue="Application.ReturnDemo2" />
         <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task8" />
+        <item itemvalue="Application.CatTester" />
       </list>
     </recent_temporary>
   </component>

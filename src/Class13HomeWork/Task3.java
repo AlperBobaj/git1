@@ -9,7 +9,7 @@ public class Task3 {
 
 
         String a="Is it saturday?is it raining?Do we have a Java Class today?";
-        String [] aArr=a.split("[?]");
-        System.out.println(aArr.length);
+        String [] arr=a.split("[?]");
+        System.out.println(arr.length);
     }
 }
