@@ -13,13 +13,13 @@ public class Task5 {
                 }
 
             }
+            }
+            return prime;
         }
-        return prime;
-    }
 
-    public static void main(String[] args) {
-        Task5 task = new Task5();
-        System.out.println(task.num(7));
+        public static void main (String[]args){
+            Task5 task = new Task5();
+            System.out.println(task.num(7));
+        }
     }
-}
 
