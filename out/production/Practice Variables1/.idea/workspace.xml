@@ -5,193 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="479bec43-580f-4f7d-804d-4c43366d3c77" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice Variables.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Variables.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Class12HomeWork/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Class12HomeWork/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Class12HomeWork/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Class13HomeWork/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Class13HomeWork/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Class13HomeWork/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Class13HomeWork/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Class13HomeWork/Task5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Class13HomeWork/Task6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/ArrayHomeWork1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/ArrayOfCountries.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/homework1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/task5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkk/task6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Dog$husky.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/HomeWorkkk$Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/HomeWorkkk$Phone1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/HomeWorkkk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/HomeWorkkk/Task5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Homework/DoubleComparison.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Homework/Month.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Homework/TemperatureCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Homework/lnterview.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Homework/practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/PracticOnly/Practic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Project1/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Project1/Task10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Project1/Task11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Project1/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Project1/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Project1/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Project1/Task5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Project1/Task6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Project1/Task7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Project1/Task8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/Project1/Task9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/VariableValues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/clas3/IfElse_10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/clas3/IfElse_11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/clas3/IfElse_8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/clas3/IfElse_9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/clas3/OperatorDemo_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/clas3/RelationalOperators_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/clas3/ShortHandOperator_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/clas3/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/clas3/TypeCasting_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/clas3/VariablesDemo_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/clas3/VariablesDemo_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/clas3/ifElse_7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class10/ArrayDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class10/D2Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class10/D2ArraysDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class10/ForEachLoopDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class10/ForEachLoopDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class10/ForEachLoopDemo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class10/ForEachLoopDemo4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class10/ScannerAndArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class11/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class11/CatTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class11/D2Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class11/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class11/DogTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class11/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class11/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class11/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class11/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/CarTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/Macbook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/MacbookTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/StringDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/StringDemo10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/StringDemo11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/StringDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/StringDemo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/StringDemo4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/StringDemo5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/StringDemo6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/StringDemo7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/StringDemo8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/StringDemo9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class12/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class13/BuilderDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class13/ReplaceAllMethodDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class13/ReplaceMethodDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class13/SplitMethodDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class13/StringRecap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class13/StringVsStringBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class13/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class13/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class13/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class4/IfElseConditionDemo5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class4/IfElseConditions2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class4/NestifDemo6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class4/NestifDemo7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class4/NestifDemo8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class4/NestifDemo9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class4/ScannerDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class4/ScannerDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class4/ScannerDemo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class4/ifDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class4/ifElseConditionDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class5/LogicalOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class5/LogicalOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class5/LogicalOperators1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class5/LogicalOperators2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class5/ScannerDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class5/SwichCaseDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class5/SwichCaseDemo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class5/SwichCaseDemo5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class5/SwitchCaseDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class5/SwitchCaseDemo4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/IncrementOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/LargesNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/LogicalAnd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/LogicalNotDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/LogicalOrDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/SwitchCaseDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/WhileLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/WhileLoop2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/homework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/whileLoop3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/whileLoop4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/whileLoop7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/whileLoop8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/whileloop5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class6/whileloop6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class7/DoWhileLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class7/DoWhileLoops1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class7/ForLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class7/ForLoops1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class7/ForLoops2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class7/ForLoops3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class7/ForLoops4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class7/FprLoops5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class7/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class7/WhileDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class7/WhileRecap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class8/BreakKeywordDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class8/BreakKeywordDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class8/ContinueKeywordDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class8/LoopWithString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class8/NestedIfLoops4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class8/NestedIfLoops5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class8/NestedIfLoos6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class8/NestedLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class8/NestedLoops1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class8/RecapDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class8/RecapDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class8/RecapDemo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class8/RecapDemo4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class9/ArraysDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class9/ArraysDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class9/ArraysDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class9/ArraysDemo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class9/ArraysDemo5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class9/ArraysDemo6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class9/ArraysDemo7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class9/ArraysDemo8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class9/ArraysDemo9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class9/Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class9/RecapDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class9/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class9/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class9/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables/class9/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13HomeWork/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class13HomeWork/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class13HomeWork/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class13HomeWork/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/DoubleComparison.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Month.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/TemperatureCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/lnterview.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class15/MPractice5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class15/MPractice5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/Class15HomeWork/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/Class15HomeWork/Task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/PracticOnly/Practic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class15HomeWork/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class15HomeWork/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticOnly/Practic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class20HomeWork/TesterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class20HomeWork/TesterClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,13 +61,13 @@
       <recent name="class4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MPracticeTester4">
-    <configuration name="MPracticeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class15.MPracticeTester" />
+  <component name="RunManager" selected="Application.UserTester">
+    <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class19.BankTest" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class15.*" />
+          <option name="PATTERN" value="class19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MPracticeTester4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class15.MPracticeTester4" />
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class19.Book" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class15.*" />
+          <option name="PATTERN" value="class19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class15.MethodPractice2" />
+    <configuration name="SportTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class20.SportTest" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class15.*" />
+          <option name="PATTERN" value="class20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodPracticeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class15.MethodPracticeTester" />
+    <configuration name="TestingConstructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class20.TestingConstructors" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class15.*" />
+          <option name="PATTERN" value="class20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodPracticeTester2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class15.MethodPracticeTester2" />
+    <configuration name="UserTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class20.UserTester" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class15.*" />
+          <option name="PATTERN" value="class20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MPracticeTester4" />
-        <item itemvalue="Application.MPracticeTester" />
-        <item itemvalue="Application.MethodPracticeTester2" />
-        <item itemvalue="Application.MethodPractice2" />
-        <item itemvalue="Application.MethodPracticeTester" />
+        <item itemvalue="Application.UserTester" />
+        <item itemvalue="Application.SportTest" />
+        <item itemvalue="Application.TestingConstructors" />
+        <item itemvalue="Application.BankTest" />
+        <item itemvalue="Application.Book" />
       </list>
     </recent_temporary>
   </component>
@@ -393,6 +213,26 @@
           <url>file://$PROJECT_DIR$/src/class10/D2ArraysDemo1.java</url>
           <line>14</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/class17/Dog.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/class17/Student.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/class17/StudentTester.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/class20/TestingConstructors.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

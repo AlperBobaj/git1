@@ -6,7 +6,7 @@ public class Task3 {
     //3) Create a method that will print whether given String is palindrome or not.
 
     String palindrome (String str){
-        String rev ="";
+        String rev ="never odd or even";
 
         for (int i = str.length()-1; i >=0 ; i--) {
             rev+=str.charAt(i);
