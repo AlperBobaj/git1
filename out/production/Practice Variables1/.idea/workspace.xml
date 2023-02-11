@@ -7,11 +7,11 @@
     <list default="true" id="479bec43-580f-4f7d-804d-4c43366d3c77" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/Class15HomeWork/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/Class15HomeWork/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/PracticOnly/Practic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class15HomeWork/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class15HomeWork/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticOnly/Practic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class20HomeWork/TesterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class20HomeWork/TesterClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/PracticOnly/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/PracticOnly/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/class19/note" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/class19/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/src/class19/note" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/src/class19/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticOnly/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticOnly/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class19/note" beforeDir="false" afterPath="$PROJECT_DIR$/src/class19/note" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +61,13 @@
       <recent name="class4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UserTester">
-    <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class19.BankTest" />
+  <component name="RunManager" selected="Application.Practice">
+    <configuration name="CalculatorTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class21.CalculatorTester" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class19.*" />
+          <option name="PATTERN" value="class21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,21 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class19.Book" />
-      <module name="Practice Variables1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SportTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class20.SportTest" />
+    <configuration name="Parent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class20.Parent" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
@@ -101,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestingConstructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class20.TestingConstructors" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticOnly.Practice" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class20.*" />
+          <option name="PATTERN" value="PracticOnly.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +101,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class20.UserTester" />
+    <configuration name="StringDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class12.StringDemo4" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class20.*" />
+          <option name="PATTERN" value="class12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class12HomeWork.Task1" />
+      <module name="Practice Variables1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class12HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UserTester" />
-        <item itemvalue="Application.SportTest" />
-        <item itemvalue="Application.TestingConstructors" />
-        <item itemvalue="Application.BankTest" />
-        <item itemvalue="Application.Book" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.Parent" />
+        <item itemvalue="Application.StringDemo4" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.CalculatorTester" />
       </list>
     </recent_temporary>
   </component>
@@ -233,6 +233,11 @@
           <url>file://$PROJECT_DIR$/src/class20/TestingConstructors.java</url>
           <line>7</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticOnly/Practice.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
