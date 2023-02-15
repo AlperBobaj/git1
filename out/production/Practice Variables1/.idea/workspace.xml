@@ -6,12 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="479bec43-580f-4f7d-804d-4c43366d3c77" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/.name 2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/kotlinc 2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/libraries/KotlinJavaRuntime 2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/misc 2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/modules 2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/workspace 2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/PracticOnly/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/PracticOnly/Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/class19/note" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/class19/note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/src/class19/note" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/src/class19/note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticOnly/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticOnly/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class19/note" beforeDir="false" afterPath="$PROJECT_DIR$/src/class19/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/PracticOnly/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/class22HomeWork/CreditCardTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/class22HomeWork/CreditCardTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticOnly/Practice.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -61,13 +66,13 @@
       <recent name="class4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice">
-    <configuration name="CalculatorTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class21.CalculatorTester" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ChaiTea (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practic.ChaiTea" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class21.*" />
+          <option name="PATTERN" value="Practic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class20.Parent" />
+    <configuration name="ChaiTea (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practic.ChaiTea" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class20.*" />
+          <option name="PATTERN" value="Practic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticOnly.Practice" />
+    <configuration name="ChaiTea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practic.ChaiTea" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticOnly.*" />
+          <option name="PATTERN" value="Practic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class12.StringDemo4" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practic1.Main" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class12.*" />
+          <option name="PATTERN" value="Practic1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class12HomeWork.Task1" />
+    <configuration name="Practicee.Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practicee.Practice" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class12HomeWork.*" />
+          <option name="PATTERN" value="Practicee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.Parent" />
-        <item itemvalue="Application.StringDemo4" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.CalculatorTester" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ChaiTea (2)" />
+        <item itemvalue="Application.ChaiTea (1)" />
+        <item itemvalue="Application.ChaiTea" />
+        <item itemvalue="Application.Practicee.Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -233,11 +238,6 @@
           <url>file://$PROJECT_DIR$/src/class20/TestingConstructors.java</url>
           <line>7</line>
           <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticOnly/Practice.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
