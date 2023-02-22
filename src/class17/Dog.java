@@ -1,6 +1,6 @@
 package class17;
 
-public class Dog {
+public  class Dog {
 
     String name;
     String breed;
@@ -14,7 +14,7 @@ public class Dog {
         age=dogAge;
         weight=dogWeight;
     }
-    void printInfo(){
+   public void printInfo(){
         System.out.println("Name "+name+" Breed "+breed+" age "+age+" Weight "+weight);
     }
 

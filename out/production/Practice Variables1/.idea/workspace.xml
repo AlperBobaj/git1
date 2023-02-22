@@ -6,16 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="479bec43-580f-4f7d-804d-4c43366d3c77" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/.name 2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/kotlinc 2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/libraries/KotlinJavaRuntime 2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/misc 2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/modules 2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/workspace 2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/PracticOnly/Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/class22HomeWork/CreditCardTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/class22HomeWork/CreditCardTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticOnly/Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/Practic1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/Practic1/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/class17/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/class17/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/class22/note" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/class22/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/class24/note" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/class24/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/src/class22/note" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/src/class22/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/src/class24/note" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/src/class24/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic1/practic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class17/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class17/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class24/note" beforeDir="false" afterPath="$PROJECT_DIR$/src/class24/note" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,7 @@
         <option value="Kotlin Class" />
         <option value="package-info" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -67,12 +69,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="ChaiTea (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practic.ChaiTea" />
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.Demo1" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practic.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,25 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChaiTea (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practic.ChaiTea" />
+    <configuration name="LinkedListDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.LinkedListDemo3" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ChaiTea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practic.ChaiTea" />
-      <module name="Practice Variables1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practic.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +96,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practic1.Main" />
+      <option name="MAIN_CLASS_NAME" value="Practic123.Main" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practic1.*" />
+          <option name="PATTERN" value="Practic123.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +108,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practicee.Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practicee.Practice" />
+    <configuration name="MyInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practic123.MyInterface" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practicee.*" />
+          <option name="PATTERN" value="Practic123.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.RemoveDemo" />
+      <module name="Practice Variables1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,10 +137,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ChaiTea (2)" />
-        <item itemvalue="Application.ChaiTea (1)" />
-        <item itemvalue="Application.ChaiTea" />
-        <item itemvalue="Application.Practicee.Practice" />
+        <item itemvalue="Application.MyInterface" />
+        <item itemvalue="Application.RemoveDemo" />
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.LinkedListDemo3" />
       </list>
     </recent_temporary>
   </component>
@@ -239,6 +241,10 @@
           <line>7</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="23" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

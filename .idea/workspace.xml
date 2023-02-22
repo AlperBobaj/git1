@@ -6,18 +6,71 @@
   <component name="ChangeListManager">
     <list default="true" id="479bec43-580f-4f7d-804d-4c43366d3c77" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/.name 2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/kotlinc 2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/libraries/KotlinJavaRuntime 2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/misc 2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/modules 2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/workspace 2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/PracticOnly/Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/class22HomeWork/CreditCardTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/class22HomeWork/CreditCardTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticOnly/Practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class22/note" beforeDir="false" afterPath="$PROJECT_DIR$/src/class22/note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25HW/WebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25HW/WebDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/Practic1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/Practic1/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/VariableValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/class17/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/class17/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/class22/note" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/class22/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/class24/note" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/class24/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/src/class22/note" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/src/class22/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice Variables1/src/class24/note" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice Variables1/src/class24/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class12HomeWork/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class12HomeWork/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class12HomeWork/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class13HomeWork/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class13HomeWork/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class13HomeWork/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class13HomeWork/Task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class13HomeWork/Task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class13HomeWork/Task6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class15HomeWork/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class15HomeWork/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class15HomeWork/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class15HomeWork/Task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class15HomeWork/Task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class15HomeWork/Task6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkk/ArrayHomeWork1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkk/ArrayOfCountries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkk/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkk/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkk/homework1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkk/task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkk/task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkk/task6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkkk/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkkk/HomeWorkkk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkkk/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkkk/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkkk/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkkk/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkkk/Task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkkk/Task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic1/practic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/Task10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/Task11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/Task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/Task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/Task6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/Task7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/Task8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project1/Task9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class16HomeWork/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class16HomeWork/Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class16HomeWork/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class17/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class17/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class20HomeWork/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class20HomeWork/EmployeeTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class20HomeWork/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class20HomeWork/TesterClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class22HomeWork/CreditCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class22HomeWork/CreditCardTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class24/note" beforeDir="false" afterPath="$PROJECT_DIR$/src/class24/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class25HW/WebDriver.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +83,7 @@
         <option value="Kotlin Class" />
         <option value="package-info" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -68,13 +122,13 @@
       <recent name="class4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ChaiTea (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practic.ChaiTea" />
+  <component name="RunManager" selected="Application.TesterMarks">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.Demo1" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practic.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChaiTea (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practic.ChaiTea" />
+    <configuration name="MyInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practic123.MyInterface" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practic.*" />
+          <option name="PATTERN" value="Practic123.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChaiTea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practic.ChaiTea" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practic123.Person" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practic.*" />
+          <option name="PATTERN" value="Practic123.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practic1.Main" />
+    <configuration name="RemoveDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.RemoveDemo" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practic1.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practicee.Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practicee.Practice" />
+    <configuration name="TesterMarks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project2.TesterMarks" />
       <module name="Practice Variables1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practicee.*" />
+          <option name="PATTERN" value="Project2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ChaiTea (2)" />
-        <item itemvalue="Application.ChaiTea (1)" />
-        <item itemvalue="Application.ChaiTea" />
-        <item itemvalue="Application.Practicee.Practice" />
+        <item itemvalue="Application.TesterMarks" />
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.MyInterface" />
+        <item itemvalue="Application.RemoveDemo" />
+        <item itemvalue="Application.Demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -241,6 +295,10 @@
           <line>7</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="23" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
